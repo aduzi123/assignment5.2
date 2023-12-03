@@ -30,8 +30,8 @@ footer {
 }
 
 img {
-  width:50%;
-  height:50%;
+  width:120px;
+  height:120px;
 
 filter: grayscale(100%) invert(100%);
 }
